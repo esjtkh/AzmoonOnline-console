@@ -1,0 +1,9 @@
+﻿  projectmain4.cpp
+c:\users\esj\source\repos\projectmain4\projectmain4\projectmain4.cpp(647): warning C4129: 'l': unrecognized character escape sequence
+c:\users\esj\source\repos\projectmain4\projectmain4\projectmain4.cpp(738): warning C4129: 'e': unrecognized character escape sequence
+c:\users\esj\source\repos\projectmain4\projectmain4\projectmain4.cpp(738): warning C4129: ' ': unrecognized character escape sequence
+c:\users\esj\source\repos\projectmain4\projectmain4\projectmain4.cpp(999): warning C4129: 'l': unrecognized character escape sequence
+c:\users\esj\source\repos\projectmain4\projectmain4\projectmain4.cpp(160): warning C4102: 'listedanesh': unreferenced label
+c:\users\esj\source\repos\projectmain4\projectmain4\projectmain4.cpp(203): warning C4101: 'a': unreferenced local variable
+c:\users\esj\source\repos\projectmain4\projectmain4\projectmain4.cpp(989): warning C4101: 'g': unreferenced local variable
+  projectmain4.vcxproj -> C:\Users\esj\source\repos\projectmain4\x64\Debug\projectmain4.exe
